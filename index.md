@@ -9,7 +9,7 @@ nav_order: 1
 [არქივის ბმული](https://drive.google.com/file/d/1yJOkVQ-fywo1ueieelL-yfAdni6u2WWW/view?usp=sharing)
 
 ## შეხვედრის ბმულები
-სამშაბათი: [https://zoom.us/j/3274885370](https://zoom.us/j/3274885370)
+სამშაბათი: [https://zoom.us/j/3274885370](https://zoom.us/j/3274885370)  
 ხუთშაბათი: [https://zoom.us/j/4932937731](https://zoom.us/j/4932937731)
 
 ## კონტაქტი
