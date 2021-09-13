@@ -6,7 +6,11 @@ nav_order: 1
 `62w6hxf`
 
 ## საკითხი მასალა
-[არქივის ბმული](https://drive.google.com/file/d/1yJOkVQ-fywo1ueieelL-yfAdni6u2WWW/view?usp=sharing)
+[არქივის ბმული](https://drive.google.com/file/d/1yJOkVQ-fywo1ueieelL-yfAdni6u2WWW)
+
+## საკითხ მასალასთან დაკავშირებული კითხვები
+შეფასების 10% იწერება კურსის მანძილზე აქტივობაში, რაც გულისხმობს ლექციის ჩატარებამდე საჭირო საკითხ მასალასთან დაკავშირებით წინასწარ კითხვების გამოგზავნაში.  
+კითხვები შეგიძლიათ გამოგზავნოთ შემდეგი ფორმით: [https://forms.gle/h3XxEMJZRjFTEJqh9](https://forms.gle/h3XxEMJZRjFTEJqh9)
 
 ## შეხვედრის ბმულები
 სამშაბათი: [https://zoom.us/j/3274885370](https://zoom.us/j/3274885370)  
